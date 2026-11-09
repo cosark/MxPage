@@ -217,6 +217,10 @@ npm run dev
 
 这是个人本地工作台，公网共享前需配置访问控制、TLS 和数据隔离。`robots.txt` / `noindex` 是搜索提示，不是访问权限控制。
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MxPage/)
+
 ## 开发、测试与打包
 
 ```bash
